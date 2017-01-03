@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTicTacToe-lib.a  CMakeFiles/TicTacToe-lib.dir/GameLogic.cpp.o CMakeFiles/TicTacToe-lib.dir/Player.cpp.o CMakeFiles/TicTacToe-lib.dir/Board.cpp.o
+/usr/bin/ranlib libTicTacToe-lib.a

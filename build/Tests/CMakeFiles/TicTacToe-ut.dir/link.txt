@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++1z -Wall   CMakeFiles/TicTacToe-ut.dir/GameLogicTests.cpp.o CMakeFiles/TicTacToe-ut.dir/PlayerTests.cpp.o CMakeFiles/TicTacToe-ut.dir/BoardTests.cpp.o CMakeFiles/TicTacToe-ut.dir/main.cpp.o  -o TicTacToe-ut -rdynamic -lgtest ../Source/libTicTacToe-lib.a -lpthread 

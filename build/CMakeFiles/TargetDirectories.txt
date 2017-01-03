@@ -1,0 +1,9 @@
+/home/krul/Documents/TicTacToe/TicTacToe/build/CMakeFiles/edit_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/CMakeFiles/rebuild_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Source/CMakeFiles/rebuild_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Source/CMakeFiles/TicTacToe.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Source/CMakeFiles/edit_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Source/CMakeFiles/TicTacToe-lib.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/CMakeFiles/edit_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/CMakeFiles/rebuild_cache.dir
+/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/CMakeFiles/TicTacToe-ut.dir

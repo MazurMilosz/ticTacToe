@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.cpp
+Board.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+iostream
+-
+cmath
+-
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+vector
+-
+string
+-
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/GameLogic.cpp
+GameLogic.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/GameLogic.hpp
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/GameLogic.hpp
+Player.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.hpp
+Board.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+memory
+-
+array
+-
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.cpp
+Player.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.hpp
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.hpp
+Board.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+

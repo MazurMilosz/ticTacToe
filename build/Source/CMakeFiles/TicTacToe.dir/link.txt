@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++1z -Wall   CMakeFiles/TicTacToe.dir/main.cpp.o  -o TicTacToe -rdynamic libTicTacToe-lib.a 

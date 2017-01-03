@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+vector
+-
+string
+-
+
+/home/krul/Documents/TicTacToe/TicTacToe/Source/main.cpp
+iostream
+-
+Board.hpp
+/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp
+

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="TicTacToe" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\Source\;CMake Files\Tests\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Source/TicTacToe" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Source" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 TicTacToe" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe/fast">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Source/TicTacToe" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Source" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 TicTacToe/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe-lib">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Source/libTicTacToe-lib.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Source" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 TicTacToe-lib" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe-lib/fast">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Source/libTicTacToe-lib.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Source" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 TicTacToe-lib/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Source/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe-ut">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/TicTacToe-ut" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Tests" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/krul/Documents/TicTacToe/TicTacToe/Source" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 TicTacToe-ut" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="TicTacToe-ut/fast">
+         <Option output="/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/TicTacToe-ut" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/krul/Documents/TicTacToe/TicTacToe/build/Tests" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/krul/Documents/TicTacToe/TicTacToe/Source" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 TicTacToe-ut/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/krul/Documents/TicTacToe/TicTacToe/build/Tests/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.cpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/Board.hpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/GameLogic.cpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/GameLogic.hpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.cpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/Player.hpp">
+         <Option target="TicTacToe-lib"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/main.cpp">
+         <Option target="TicTacToe"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/BoardTests.cpp">
+         <Option target="TicTacToe-ut"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/GameLogicTests.cpp">
+         <Option target="TicTacToe-ut"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/PlayerTests.cpp">
+         <Option target="TicTacToe-ut"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/main.cpp">
+         <Option target="TicTacToe-ut"/>
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Source/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\Source\" />
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\Tests\" />
+      </Unit>
+      <Unit filename="/home/krul/Documents/TicTacToe/TicTacToe/Tests/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\Tests\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
