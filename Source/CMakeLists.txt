@@ -1,15 +1,15 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(TicTacToe)
+project(ticTacToe)
 
 set(SOURCES
-    GameLogic.cpp
-    Player.cpp
+    #    GameLogic.cpp
+    #Player.cpp
     Board.cpp
     )
 set(HEADERS
-    GameLogic.hpp
-    Player.hpp
+    #GameLogic.hpp
+    #Player.hpp
     Board.hpp
     )
 

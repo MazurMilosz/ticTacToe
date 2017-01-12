@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(TicTacToe-ut)
+project(ticTacToe-ut)
 
 set(SOURCES
-    GameLogicTests.cpp
-    PlayerTests.cpp
+    #GameLogicTests.cpp
+    #    PlayerTests.cpp
     BoardTests.cpp
     main.cpp
 )
@@ -12,4 +12,4 @@ set(SOURCES
 link_libraries(gtest)
 
 add_executable(${PROJECT_NAME} ${SOURCES})
-target_link_libraries(${PROJECT_NAME} TicTacToe-lib pthread)
+target_link_libraries(${PROJECT_NAME} ticTacToe-lib pthread)
